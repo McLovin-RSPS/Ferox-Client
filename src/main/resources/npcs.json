@@ -1,0 +1,118 @@
+[
+  {
+    "id":6481,
+    "name":"Mac",
+    "size":1,
+    "models":[
+      29615,
+      29618,
+      29621,
+      29617,
+      29620,
+      176,
+      29619,
+      29622
+    ],
+    "chatheadModels":[
+      29627
+    ],
+    "standingAnimation":808,
+    "rotateLeftAnimation":-1,
+    "rotateRightAnimation":-1,
+    "walkingAnimation":819,
+    "rotate180Animation":820,
+    "rotate90RightAnimation":821,
+    "rotate90LeftAnimation":822,
+    "actions":[
+      "Talk-to",
+      null,
+      null,
+      "Prestige Skills",
+      "Buy Capes"
+    ],
+    "isMinimapVisible":true,
+    "combatLevel":126,
+    "widthScale":128,
+    "heightScale":128,
+    "hasRenderPriority":true,
+    "ambient":0,
+    "contrast":0,
+    "headIcon":-1,
+    "rotationSpeed":32,
+    "varbitId":-1,
+    "varpIndex":-1,
+    "isInteractable":true,
+    "rotationFlag":true,
+    "isPet":false,
+    "params":{
+
+    },
+    "category":0
+  },
+  {
+    "id": 1307,
+    "name": "Iconis",
+    "size": 1,
+    "models": [
+      9608,
+      390,
+      9459,
+      471,
+      343,
+      353,
+      534,
+      5034,
+      358
+    ],
+    "chatheadModels": [
+      113,
+      9601
+    ],
+    "standingAnimation": 813,
+    "rotateLeftAnimation": -1,
+    "rotateRightAnimation": -1,
+    "walkingAnimation": 1205,
+    "rotate180Animation": 1206,
+    "rotate90RightAnimation": 1207,
+    "rotate90LeftAnimation": 1208,
+    "recolorToFind": [
+      6798,
+      8741,
+      -24618,
+      119,
+      -25152,
+      8078
+    ],
+    "recolorToReplace": [
+      5921,
+      -26321,
+      -26325,
+      -26205,
+      -26329,
+      -26329
+    ],
+    "actions":[
+      "Talk-to",
+      null,
+      null,
+      "Take-picture",
+      null
+    ],
+    "isMinimapVisible": true,
+    "combatLevel": 0,
+    "widthScale": 128,
+    "heightScale": 128,
+    "hasRenderPriority": true,
+    "ambient": 0,
+    "contrast": 0,
+    "headIcon": -1,
+    "rotationSpeed": 32,
+    "varbitId": -1,
+    "varpIndex": -1,
+    "isInteractable": true,
+    "rotationFlag": true,
+    "isPet": false,
+    "params": {},
+    "category": 256
+  }
+]

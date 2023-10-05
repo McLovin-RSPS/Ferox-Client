@@ -1,0 +1,1061 @@
+[
+  {
+    "id":14068,
+    "name":"Artisian Cape",
+    "male_equip_main": 80000,
+    "female_equip_main": 80001,
+    "inventory_model": 80002,
+    "roll": 0,
+    "pitch": 504,
+    "yaw": 0,
+    "model_zoom": 2128,
+    "translate_x": 0,
+    "translate_y": 1,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14069,
+    "name": "Artisian Cape(t)",
+    "male_equip_main": 80003,
+    "female_equip_main": 80004,
+    "inventory_model": 80005,
+    "roll": 0,
+    "pitch": 504,
+    "yaw": 0,
+    "model_zoom": 2128,
+    "translate_x": 0,
+    "translate_y": 1,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14070,
+    "name": "Artisian hood",
+    "male_equip_main": 18914,
+    "female_equip_main": 18967,
+    "inventory_model": 19058,
+    "roll": 18,
+    "pitch": 21,
+    "yaw": 0,
+    "model_zoom": 720,
+    "translate_x": 0,
+    "translate_y": 0,
+    "male_dialogue_head": 18911,
+    "female_dialogue_head": 18913,
+    "src_colors": [
+      -8256,
+      -11353,
+      -11033,
+      960,
+      22464,
+      -21568
+    ],
+    "replace_colors": [
+      127,
+      123,
+      111,
+      127,
+      123,
+      119
+    ],
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14071,
+    "name": "Attack master cape",
+    "male_equip_main": 80005,
+    "female_equip_main": 80005,
+    "inventory_model": 80006,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14072,
+    "name": "Agility master cape",
+    "male_equip_main": 80008,
+    "female_equip_main": 80008,
+    "inventory_model": 80009,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14073,
+    "name": "Construction master cape",
+    "male_equip_main": 80010,
+    "female_equip_main": 80010,
+    "inventory_model": 80011,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14074,
+    "name": "Cooking master cape",
+    "male_equip_main": 80012,
+    "female_equip_main": 80012,
+    "inventory_model": 80013,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14075,
+    "name": "Crafting master cape",
+    "male_equip_main": 80014,
+    "female_equip_main": 80014,
+    "inventory_model": 80015,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14076,
+    "name": "Defence master cape",
+    "male_equip_main": 80016,
+    "female_equip_main": 80016,
+    "inventory_model": 80017,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14077,
+    "name": "Farming master cape",
+    "male_equip_main": 80018,
+    "female_equip_main": 80018,
+    "inventory_model": 80019,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14078,
+    "name": "Firemaking master cape",
+    "male_equip_main": 80020,
+    "female_equip_main": 80020,
+    "inventory_model": 80021,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14079,
+    "name": "Fishing master cape",
+    "male_equip_main": 80022,
+    "female_equip_main": 80022,
+    "inventory_model": 80023,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14080,
+    "name": "Fletching master cape",
+    "male_equip_main": 80024,
+    "female_equip_main": 80024,
+    "inventory_model": 80025,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14081,
+    "name": "Herblore master cape",
+    "male_equip_main": 80026,
+    "female_equip_main": 80026,
+    "inventory_model": 80027,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14082,
+    "name": "Hitpoints master cape",
+    "male_equip_main": 80028,
+    "female_equip_main": 80028,
+    "inventory_model": 80029,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14083,
+    "name": "Hunter master cape",
+    "male_equip_main": 80030,
+    "female_equip_main": 80030,
+    "inventory_model": 80031,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14084,
+    "name": "Magic master cape",
+    "male_equip_main": 80032,
+    "female_equip_main": 80032,
+    "inventory_model": 80033,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14085,
+    "name": "Mining master cape",
+    "male_equip_main": 80034,
+    "female_equip_main": 80034,
+    "inventory_model": 80035,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14086,
+    "name": "Prayer master cape",
+    "male_equip_main": 80036,
+    "female_equip_main": 80036,
+    "inventory_model": 80037,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14087,
+    "name": "Range master cape",
+    "male_equip_main": 80038,
+    "female_equip_main": 80038,
+    "inventory_model": 80039,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14088,
+    "name": "Runecraft master cape",
+    "male_equip_main": 80040,
+    "female_equip_main": 80040,
+    "inventory_model": 80041,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14089,
+    "name": "Slayer master cape",
+    "male_equip_main": 80042,
+    "female_equip_main": 80042,
+    "inventory_model": 80043,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14090,
+    "name": "Smithing master cape",
+    "male_equip_main": 80044,
+    "female_equip_main": 80044,
+    "inventory_model": 80045,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14091,
+    "name": "Strength master cape",
+    "male_equip_main": 80046,
+    "female_equip_main": 80046,
+    "inventory_model": 80047,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14092,
+    "name": "Thieving master cape",
+    "male_equip_main": 80048,
+    "female_equip_main": 80048,
+    "inventory_model": 80049,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14093,
+    "name": "Woodcutting master cape",
+    "male_equip_main": 80050,
+    "female_equip_main": 80050,
+    "inventory_model": 80051,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14094,
+    "name": "Artisian master cape",
+    "male_equip_main": 80052,
+    "female_equip_main": 80052,
+    "inventory_model": 80053,
+    "pitch": 292,
+    "roll": 1028,
+    "yaw": 0,
+    "model_zoom": 2100,
+    "translate_x": 0,
+    "translate_y": 0,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14095,
+    "name":"Brewing Cape",
+    "male_equip_main": 80054,
+    "female_equip_main": 80055,
+    "inventory_model": 80056,
+    "roll": 0,
+    "pitch": 504,
+    "yaw": 0,
+    "model_zoom": 2128,
+    "translate_x": 0,
+    "translate_y": 1,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14096,
+    "name":"Brewing Cape(t)",
+    "male_equip_main": 80057,
+    "female_equip_main": 80058,
+    "inventory_model": 80059,
+    "roll": 0,
+    "pitch": 504,
+    "yaw": 0,
+    "model_zoom": 2128,
+    "translate_x": 0,
+    "translate_y": 1,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14097,
+    "name": "Brewing hood",
+    "male_equip_main": 80060,
+    "female_equip_main": 80061,
+    "inventory_model": 80062,
+    "roll": 18,
+    "pitch": 21,
+    "yaw": 0,
+    "model_zoom": 720,
+    "translate_x": 0,
+    "translate_y": 0,
+    "male_dialogue_head": 80063,
+    "female_dialogue_head": 80064,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14098,
+    "name":"Brewing master cape",
+    "male_equip_main": 80065,
+    "female_equip_main": 80066,
+    "inventory_model": 80067,
+    "roll": 0,
+    "pitch": 504,
+    "yaw": 0,
+    "model_zoom": 2128,
+    "translate_x": 0,
+    "translate_y": 1,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14099,
+    "name":"Exploration Cape",
+    "male_equip_main": 80068,
+    "female_equip_main": 80069,
+    "inventory_model": 80070,
+    "roll": 0,
+    "pitch": 504,
+    "yaw": 0,
+    "model_zoom": 2128,
+    "translate_x": 0,
+    "translate_y": 1,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14100,
+    "name":"Exploration Cape(t)",
+    "male_equip_main": 80071,
+    "female_equip_main": 80072,
+    "inventory_model": 80073,
+    "roll": 0,
+    "pitch": 504,
+    "yaw": 0,
+    "model_zoom": 2128,
+    "translate_x": 0,
+    "translate_y": 1,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14101,
+    "name": "Exploration hood",
+    "male_equip_main": 80074,
+    "female_equip_main": 80075,
+    "inventory_model": 80076,
+    "roll": 18,
+    "pitch": 21,
+    "yaw": 0,
+    "model_zoom": 720,
+    "translate_x": 0,
+    "translate_y": 0,
+    "male_dialogue_head": 80077,
+    "female_dialogue_head": 80078,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14102,
+    "name":"Exploration master cape",
+    "male_equip_main": 80079,
+    "female_equip_main": 80080,
+    "inventory_model": 80081,
+    "roll": 0,
+    "pitch": 504,
+    "yaw": 0,
+    "model_zoom": 2128,
+    "translate_x": 0,
+    "translate_y": 1,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14103,
+    "name":"Ancient Stone",
+    "model_scale_x": 128,
+    "model_scale_y": 128,
+    "model_scale_z": 128,
+    "roll": 368,
+    "pitch": 220,
+    "yaw": 1860,
+    "inventory_model": 2528,
+    "src_colors": [
+      61
+    ],
+    "replace_colors": [
+      -22467
+    ],
+    "model_zoom": 780,
+    "translate_x": -5,
+    "translate_y": 7,
+    "widget_actions": [
+      "Activate",
+      null,
+      "Check",
+      "Log",
+      "Drop"
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14104,
+    "name": "Infernal Bulwark",
+    "male_equip_main": 80082,
+    "female_equip_main": 80082,
+    "inventory_model": 80083,
+    "model_scale_x": 128,
+    "model_scale_y": 128,
+    "model_scale_z": 128,
+    "roll": 402,
+    "pitch": 1409,
+    "yaw": 0,
+    "model_zoom": 2276,
+    "translate_x": 0,
+    "translate_y": 4,
+    "widget_actions":[
+      null,
+      "Wear",
+      null,
+      null,
+      null
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  },
+  {
+    "id":14105,
+    "name": "Mystery Card",
+    "inventory_model": 80084,
+    "model_scale_x": 128,
+    "model_scale_y": 128,
+    "model_scale_z": 128,
+    "roll": 443,
+    "pitch": 0,
+    "yaw": 0,
+    "model_zoom": 789,
+    "translate_x": 0,
+    "translate_y": -1,
+    "widget_actions":[
+      null,
+      null,
+      null,
+      null,
+      "Destroy"
+    ],
+    "scene_actions":[
+      null,
+      null,
+      "Take",
+      null,
+      null
+    ]
+  }
+]
